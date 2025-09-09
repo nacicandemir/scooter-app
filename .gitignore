@@ -1,0 +1,58 @@
+# Node.js
+node_modules/
+npm-debug.*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo / React Native
+.expo/
+.expo-shared/
+web-build/
+dist/
+*.expo
+expo-env.d.ts
+*.apk
+*.aab
+
+# Android build keys
+*.jks
+*.key
+*.p8
+*.p12
+*.mobileprovision
+
+# iOS / Xcode
+ios/
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+*.pbxuser
+*.mode1v3
+*.mode2v3
+
+# Android
+android/
+
+# Git merge conflict files
+*.orig.*
+
+# macOS
+.DS_Store
+
+# Metro / Watchman
+.metro-cache/
+.watchmanconfig
+.metro-health-check*
+
+# Environment variables
+.env
+.env.*
+
+# Editor folders
+.vscode/
+.idea/
+*.log
+
+app.json
+cesconfig.jsonc
